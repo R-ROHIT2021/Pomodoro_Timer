@@ -25,8 +25,11 @@ A simple Pomodoro Timer application built using Python and Tkinter. This applica
 ## Usage
 Run the game: `python main.py`
 
+## Customize
+You can customize the default work and break durations by modifying the WORK_MIN, SHORT_BREAK_MIN, LONG_BREAK_MIN variables in the main.py file.
+
 ## Contributing
-We welcome contributions, bug reports, and suggestions from the GitHub community.
+Contributions are welcome! If you find any issues or want to improve the application, feel free to submit a pull request.
 
 ## Credits
 - Inspired by [Pomodoro Timer Tutorial] by Dr. Angela Yu
