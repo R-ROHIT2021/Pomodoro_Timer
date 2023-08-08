@@ -2,7 +2,7 @@
 
 A simple Pomodoro Timer application built using Python and Tkinter. This application helps you manage your work and break intervals using the Pomodoro technique.
 
-## Game Demo Screenshot
+## GUI Demo Screenshot
 <img src="https://github.com/R-ROHIT2021/Pomodoro_Timer/blob/main/Screenshot.png" alt="Alt Text" width="500" height="300">
 
 ## Features
