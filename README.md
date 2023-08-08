@@ -17,11 +17,6 @@ A simple Pomodoro Timer application built using Python and Tkinter. This applica
 - Python 3.x
 - Tkinter (usually included in standard Python distribution)
 
-## Installation
-1. Clone the repository: `git clone https://github.com/R-ROHIT2021/Pomodoro_Timer.git`
-3. Install Python: [python.org](https://www.python.org/downloads/)
-4. Install required packages: `pip install -r requirements.txt`
-
 ## Usage
 Run the game: `python main.py`
 
